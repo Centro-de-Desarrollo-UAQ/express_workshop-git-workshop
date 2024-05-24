@@ -1,3 +1,5 @@
+node_modules
+=======
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
@@ -11,6 +13,7 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
+=======
 pokemon.zip
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
@@ -68,6 +71,9 @@ web_modules/
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
+# ignoramos pokemon.zip
+pokemon.zip
+=======
 
 # Optional REPL history
 .node_repl_history
